@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Daria Miagkova and I'm glad to see you here!
+
+---
+Data Scientist with High Energy Physics background
+- 🔭 currently working on Kaggle TitanicSpaceship challenge
+- 📫 now in Yerevan, originally from Moscow
+  
+
 <!--
 **xEsseax/xEsseax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
